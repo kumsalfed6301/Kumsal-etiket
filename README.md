@@ -1,18 +1,7 @@
-# RoseTagger
-Hocam Bedava Kullanabileceğiniz Göttu Arkadaşımızın Yaptığı Kodu Sizlere Sunuyorum.
+<p align="center">
+  <img src="https://envs.sh/oUk.jpg">
+</p>
 
-Kimse Bu Orospu Çocuğuna Para Yedirmesin.
+bizi tercih ettiğiniz için teşekkürler
 
-Sunucuda çalıştırma kodları;
-
-- git clone repoismi
-- cd repoismi
-- install -R requirements.txt 
-
-Daha sonra screen s dosyanızı kurun.
-
-- screen -S Repoismi
-
-Python3 RoseTagger.py çalıştırın hayırlı olsun 🥰
-
-Telegram İletişim: @Blayzen
+KUMSAL X TEAM 
